@@ -25,5 +25,7 @@ they allow to see how different commits are interrelated
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+it includes changes from both branches
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
