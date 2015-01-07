@@ -29,3 +29,5 @@ it includes changes from both branches
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+with large amounts of changes you cannot deal with them manually
