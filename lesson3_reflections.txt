@@ -13,3 +13,8 @@ use one instead of another?
 you use forks to clone existing repository on github (the one that you need to change but don't have rights to)
 you use clone to clone repository to your local machine
 you use branch to introduce some changes that you're not ready to add to the official version yet
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Didn't get it(
+
